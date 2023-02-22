@@ -1,4 +1,5 @@
 # import the opencv library
+# not finished yet
 import cv2
 
 # define a video capture object
